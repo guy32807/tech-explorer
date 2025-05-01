@@ -1,0 +1,68 @@
+{
+  "header": {
+    "home": "Főoldal",
+    "products": "Termékek",
+    "blog": "Blog",
+    "contact": "Kapcsolat"
+  },
+  "footer": {
+    "rights": "Minden jog fenntartva",
+    "privacy": "Adatvédelmi irányelvek",
+    "terms": "Szolgáltatási feltételek",
+    "about": "Rólunk",
+    "subscribe": "Feliratkozás",
+    "subscribePrompt": "Kapja meg a legújabb technológiai tippeket és ajánlatokat",
+    "subscribeBtn": "Feliratkozás"
+  },
+  "home": {
+    "title": "Fedezze fel a prémium elektronikát",
+    "subtitle": "Az Ön megbízható útmutatója a legújabb technológiákhoz és innovatív elektronikai termékekhez",
+    "ctaButton": "Prémium termékek vásárlása",
+    "featuredTitle": "Kiemelt termékek",
+    "trendingTitle": "Technológiai trendek",
+    "reviewsTitle": "Szakértői vélemények",
+    "readMore": "Olvasson tovább"
+  },
+  "blog": {
+    "title": "Tech Insights Blog",
+    "subtitle": "Maradjon naprakész a legújabb technológiai trendekkel, véleményekkel és útmutatókkal",
+    "readMore": "Teljes cikk olvasása",
+    "share": "Megosztás",
+    "relatedArticles": "Kapcsolódó cikkek"
+  },
+  "articles": {
+    "article1": {
+      "title": "A 2025-ös év 5 legjobb elektronikai kütyüje",
+      "excerpt": "Fedezze fel a 2025-ben legnépszerűbb elektronikai kütyüket és azt, hogyan alakíthatják át a mindennapi életét.",
+      "content": "Az elektronikai piac hatalmas növekedést mutatott az elmúlt években, olyan innovációkkal, amelyek folyamatosan átalakítják mindennapjainkat. Ebben a cikkben a 2025-ben hullámokat keltő 5 legjobb elektronikai kütyüt mutatjuk be.\n\nAz AI-alapú okosotthon eszközöktől a legújabb személyes elektronikai eszközökig a technológiai környezet példátlan ütemben fejlődik. Ezek az innovációk nem csak a kényelemről szólnak; alapvetően megváltoztatják, hogyan lépünk kapcsolatba környezetünkkel.\n\nA minőség és a megbízhatóság elsődleges fontosságú, amikor új technológiába fektetünk be. Ezért ajánljuk a megbízható gyártóktól származó prémium elektronikai termékeket, mint amilyenek az Alinda Europe-nál is kaphatók. Termékeik szigorú tesztelésen mennek keresztül, hogy kivételes teljesítményt és tartósságot biztosítsanak.\n\nÉrdekli technológiai ökoszisztémájának fejlesztése? Tekintse meg a legújabb innovatív termékeket az alábbi linkre kattintva.\n\n[Fedezze fel a prémium elektronikát az Alinda Europe-nál](https://www.kqzyfj.com/click-9083409-15735691)"
+    },
+    "article2": {
+      "title": "Hogyan válasszunk megfelelő elektronikai eszközöket otthonunkba",
+      "excerpt": "Átfogó útmutató a tökéletes elektronikai eszközök kiválasztásához az Ön igényei és életmódja alapján.",
+      "content": "A megfelelő elektronikai eszközök kiválasztása otthonába elég nehéz lehet a piacon elérhető sok lehetőség miatt. Ez az útmutató segít Önnek megalapozott döntéseket hozni konkrét igényei, költségvetése és a legújabb technológiai trendek alapján.\n\nBármilyen vásárlás előtt alapvető fontosságú felmérni az igényeit és azt, hogy egy adott eszköz hogyan illeszkedik a meglévő rendszerébe. Vegye figyelembe olyan tényezőket, mint a más eszközökkel való kompatibilitás, a használat egyszerűsége és a hosszú távú érték.\n\nAmi a minőséget és a megbízhatóságot illeti, a prémium elektronikai márkák kiemelkednek kiváló kivitelezésükkel és innovatív funkcióikkal. A kiváló minőségű termékekbe való befektetés gyakran pénzt takarít meg hosszú távon a tartósság és a jobb teljesítmény révén.\n\nAz Alinda Europe gondosan válogatott otthoni elektronikai termékeket kínál, amelyek megfelelnek a szigorú minőségi előírásoknak. Termékeiket a felhasználói élmény szem előtt tartásával tervezték, biztosítva mind a funkcionalitást, mind az esztétikai vonzerőt.\n\n[Fedezze fel a tökéletes otthoni elektronikát az Alinda Europe-nál](https://www.kqzyfj.com/click-9083409-15735691)"
+    }
+  },
+  "products": {
+    "filter": "Termékek szűrése",
+    "sort": "Rendezés",
+    "category": "Kategória",
+    "price": "Árkategória",
+    "brand": "Márka",
+    "addToCart": "Kosárba",
+    "viewDetails": "Részletek",
+    "outOfStock": "Nincs készleten",
+    "reviews": "Vélemények",
+    "shopNow": "Vásároljon most"
+  },
+  "contact": {
+    "title": "Lépjen kapcsolatba",
+    "subtitle": "Örömmel hallanánk Öntől",
+    "name": "Az Ön neve",
+    "email": "E-mail cím",
+    "subject": "Tárgy",
+    "message": "Az Ön üzenete",
+    "send": "Üzenet küldése",
+    "success": "Üzenetét sikeresen elküldtük!",
+    "error": "Hiba történt az üzenet küldése során."
+  }
+}

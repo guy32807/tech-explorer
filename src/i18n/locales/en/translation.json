@@ -1,0 +1,68 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "about": "About Us",
+    "subscribe": "Subscribe",
+    "subscribePrompt": "Get the latest tech tips and deals",
+    "subscribeBtn": "Subscribe"
+  },
+  "home": {
+    "title": "Discover Premium Electronics",
+    "subtitle": "Your trusted guide to the latest technology and innovative electronic products",
+    "ctaButton": "Shop Premium Products",
+    "featuredTitle": "Featured Products",
+    "trendingTitle": "Trending in Tech",
+    "reviewsTitle": "Expert Reviews",
+    "readMore": "Read More"
+  },
+  "blog": {
+    "title": "Tech Insights Blog",
+    "subtitle": "Stay updated with the latest tech trends, reviews, and how-to guides",
+    "readMore": "Read Full Article",
+    "share": "Share",
+    "relatedArticles": "Related Articles"
+  },
+  "articles": {
+    "article1": {
+      "title": "Top 5 Electronic Gadgets for 2025",
+      "excerpt": "Discover the best electronic gadgets that are trending in 2025 and how they can transform your daily life.",
+      "content": "The electronics market has seen tremendous growth in recent years, with innovations that continue to transform our daily lives. In this article, we explore the top 5 electronic gadgets that are making waves in 2025.\n\nFrom AI-powered smart home devices to cutting-edge personal electronics, the technology landscape is evolving at an unprecedented pace. These innovations are not just about convenience; they're fundamentally changing how we interact with our environment.\n\nQuality and reliability are paramount when investing in new technology. That's why we recommend premium electronics from trusted manufacturers like those available at Alinda Europe. Their products undergo rigorous testing to ensure exceptional performance and durability.\n\nInterested in upgrading your tech ecosystem? Check out the latest innovative products by clicking the link below.\n\n[Explore Premium Electronics at Alinda Europe](https://www.kqzyfj.com/click-9083409-15735691)"
+    },
+    "article2": {
+      "title": "How to Choose the Right Electronics for Your Home",
+      "excerpt": "A comprehensive guide to selecting the perfect electronic devices for your home based on your needs and lifestyle.",
+      "content": "Choosing the right electronics for your home can be overwhelming with so many options available in the market. This guide will help you make informed decisions based on your specific needs, budget, and the latest technology trends.\n\nBefore making any purchase, it's essential to assess your requirements and how a particular device fits into your existing ecosystem. Consider factors like compatibility with other devices, ease of use, and long-term value.\n\nWhen it comes to quality and reliability, premium electronics brands stand out for their superior craftsmanship and innovative features. Investing in high-quality products often saves money in the long run through durability and better performance.\n\nAlinda Europe offers a carefully curated selection of home electronics that meet stringent quality standards. Their products are designed with user experience in mind, ensuring both functionality and aesthetic appeal.\n\n[Discover Perfect Home Electronics at Alinda Europe](https://www.kqzyfj.com/click-9083409-15735691)"
+    }
+  },
+  "products": {
+    "filter": "Filter Products",
+    "sort": "Sort By",
+    "category": "Category",
+    "price": "Price Range",
+    "brand": "Brand",
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "shopNow": "Shop Now"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Your message has been sent successfully!",
+    "error": "There was an error sending your message."
+  }
+}
