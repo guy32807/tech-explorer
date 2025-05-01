@@ -177,7 +177,7 @@ const BlogArticlePage: React.FC = () => {
     return <div>Article not found</div>;
   }
   
-  const shareUrl = `https://tech-explorer-hub.com/blog/${slug}`;
+  const shareUrl = `https://guy32807.github.io/tech-explorer/#/blog/${slug}`;
   const articleTitle = t(`${article.translationKey}.title`);
   const articleContent = t(`${article.translationKey}.content`);
   

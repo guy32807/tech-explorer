@@ -18,13 +18,15 @@ const SEO: React.FC<SEOProps> = ({
   type = 'website'
 }) => {
   const { i18n } = useTranslation();
-  const baseUrl = 'https://alinda-europe-affiliate.com'; // Replace with your actual domain
-  const defaultTitle = 'Alinda Europe | Quality Electronics';
-  const defaultDescription = 'Discover high-quality electronic products from Alinda Europe that enhance your lifestyle and meet your technological needs.';
+  // Update the baseUrl to your GitHub Pages URL
+  const baseUrl = 'https://guy32807.github.io/tech-explorer'; 
+  const defaultTitle = 'TechExplorerHub | Quality Electronics';
+  const defaultDescription = 'Discover high-quality electronic products that enhance your lifestyle and meet your technological needs.';
   
-  const siteTitle = title ? `${title} | Alinda Europe` : defaultTitle;
+  const siteTitle = title ? `${title} | TechExplorerHub` : defaultTitle;
   const siteDescription = description || defaultDescription;
-  const siteImage = image.startsWith('http') ? image : `${baseUrl}${image}`;
+  // Adjust image path for GitHub Pages
+  const siteImage = image.startsWith('http') ? image : `${baseUrl}${image}`; 
   const url = canonical ? `${baseUrl}${canonical}` : baseUrl;
 
   return (
@@ -51,10 +53,10 @@ const SEO: React.FC<SEOProps> = ({
       
       {/* Alternate language versions */}
       {i18n.language === 'en' && (
-        <link rel="alternate" href={`${baseUrl}/hu${canonical || ''}`} hrefLang="hu" />
+        <link rel="alternate" href={`${baseUrl}/#/hu${canonical || ''}`} hrefLang="hu" />
       )}
       {i18n.language === 'hu' && (
-        <link rel="alternate" href={`${baseUrl}${canonical || ''}`} hrefLang="en" />
+        <link rel="alternate" href={`${baseUrl}/#${canonical || ''}`} hrefLang="en" />
       )}
     </Helmet>
   );
